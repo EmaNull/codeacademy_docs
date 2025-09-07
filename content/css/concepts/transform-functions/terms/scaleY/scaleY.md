@@ -1,18 +1,9 @@
 # ---
-Title: 'scaleY() CSS Transform Function'
-Description: 'Describes the CSS scaleY() transform function, its syntax, and usage examples.'
-Subjects:
-  - 'Web Development'
-  - 'CSS'
-Tags:
-  - 'transform'
-  - 'scaleY'
-  - 'CSS'
-  - 'animation'
-  - 'effects'
-CatalogContent:
-  - 'Transform Functions'
-  - 'CSS Properties'
+Title: scaleY() CSS Transform Function
+Description: Describes the CSS scaleY() transform function, its syntax, and usage examples.
+Subjects: [Web Development, CSS]
+Tags: [CSS, Animation, Effects, Properties]
+CatalogContent: [Transform Functions, CSS Properties]
 # ---
 # scaleY()
 
